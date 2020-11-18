@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![alt text](https://user-images.githubusercontent.com/43951048/95287451-2096d200-0890-11eb-9816-c01e2ac1d756.jpeg)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=haintse06350&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nguyengochie&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haintse06350&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
