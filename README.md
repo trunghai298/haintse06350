@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/b2505987-2f55-4046-acba-a57084755d21.svg)](https://wakatime.com/@b2505987-2f55-4046-acba-a57084755d21)
+Since Feb 1 2021
 <!--
 **haintse06350/haintse06350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
